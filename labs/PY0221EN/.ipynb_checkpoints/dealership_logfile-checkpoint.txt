@@ -1,0 +1,8 @@
+15:34:32-Sep-12-2021,start ETL
+15:34:32-Sep-12-2021,start extract
+15:34:32-Sep-12-2021,extract complete
+15:34:32-Sep-12-2021,start transform
+15:34:32-Sep-12-2021,transform complete
+15:34:32-Sep-12-2021,start load
+15:34:33-Sep-12-2021,load complete
+15:34:33-Sep-12-2021,ETL finished!
